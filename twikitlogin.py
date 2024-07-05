@@ -1,9 +1,9 @@
 from twikit import Client
 import json
 
-USERNAME = 'Eroticdreamz1'
+USERNAME = 'username'
 'EMAIL = 'email@example.com'
-PASSWORD = 'TwiEro2001*'
+PASSWORD = 'password'
 
 # Initialize client
 client = Client('en-US')
